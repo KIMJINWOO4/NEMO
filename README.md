@@ -33,73 +33,67 @@
 
 #### 주요 기술 스택
 
-1. **React (React.js)**
+1. <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 -   버전: 18.2.0
 -   사용 이유: 사용자 인터페이스 구축을 위한 주요 JavaScript 라이브러리
 
-2. **TypeScript**
+2. <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
 -   버전: 4.9.5
 -   사용 이유: JavaScript에 정적 타입을 추가하여 코드의 안정성과 유지보수성 향상
 
-3. **React Query**
+3. <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 
 -   버전: 3.39.3
 -   사용 이유: 서버 상태 관리를 위한 효율적인 데이터 페칭, 캐싱 및 업데이트
 
-4. **Recoil**
+4. <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
 
 -   버전: 0.7.7
 -   사용 이유: React 애플리케이션을 위한 상태 관리 라이브러리
 
-5. **React Router DOM**
+5. <img src="https://img.shields.io/badge/react router dom-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
 
 -   버전: 6.16.0
 -   사용 이유: React에서의 라우팅을 관리하기 위한 라이브러리
 
-6. **Axios**
+6. <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 
 -   버전: 1.5.1
 -   사용 이유: HTTP 요청을 보내기 위한 JavaScript 라이브러리
 
-7. **Sass (SCSS)**
+7. <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
 -   버전: 1.67.0
 -   사용 이유: CSS 확장 언어, 복잡한 스타일링을 위한 효율적인 작성 가능
 
-8. **Testing Library (React Testing Library)**
+8. <img src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white">
 
 -   사용 이유: React 컴포넌트 테스트를 위한 라이브러리
 
-9. **Mock Service Worker (MSW)**
+9. <img src="https://img.shields.io/badge/mock service worker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white">
 
 -   버전: 1.3.1
 -   사용 이유: 네트워크 요청을 모의(Mock)하기 위한 도구
 
-10. **Yjs**
+10. <img src="https://img.shields.io/badge/yjs-61DAFB?style=for-the-badge&logo=yjs&logoColor=yellow">
 
 -   버전: 13.6.8
 -   사용 이유: 공동 작업 및 실시간 편집 기능을 위한 데이터 동기화 라이브러리
 
-11. **Prettier & ESLint**
+11. <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"><img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
 
 -   Prettier 버전: 3.0.3
 -   ESLint-config-prettier 버전: 9.0.0
 -   사용 이유: 코드 포맷팅과 정적 분석을 통한 코드 품질 관리
 
-12. **Concurrently & Cross-env**
-
--   Concurrently 버전: 8.2.0
--   Cross-env 버전: 7.0.3
--   사용 이유: 다양한 스크립트를 동시에 실행하고, 크로스 플랫폼 환경 변수 설정
-
-13. **tldraw/tldraw**
+12. <img src="https://img.shields.io/badge/tldraw/@tldraw-1287B1?style=for-the-badge&logo=tldraw&logoColor=white">
 
 -   버전: 1.29.2
 -   사용 이유: 사용자 인터페이스에서 간단하고 가벼운 드로잉 기능을 제공하기 위한 라이브러리입니다.
 
-14. **tldraw/core**
+13. <img src="https://img.shields.io/badge/tldraw/@core-1287B1?style=for-the-badge&logo=tldraw&logoColor=white">
 
 -   버전: 1.23.2
 -   사용 이유: @tldraw/tldraw 라이브러리의 핵심 기능을 제공하는 라이브러리로, 드로잉 관련 핵심 기능 및 로직 커스터마이징을 담당합니다.
